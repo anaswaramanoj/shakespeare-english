@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
 :root {
-    --primary-color: #92400E;
+    --primary-color: #B45309;
 }
 body{
+    font-family: 'Langar', cursive;
     margin: 0px;
 }
 #output{
