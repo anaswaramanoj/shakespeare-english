@@ -1,0 +1,45 @@
+:root {
+    --primary-color: #92400E;
+}
+body{
+    margin: 0px;
+}
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 60%;
+    margin: 1rem;
+    padding: 1rem;
+}
+textarea{
+    height: 10vh;
+    width:60%;
+    margin: 1rem;
+    border: 1px solid black;
+    padding: 1rem;
+}
+button{
+    margin: 1rem;
+    display: block;
+}
+.container {
+    padding: 0rem 1rem;
+}
+.container-center {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+}
+.navigation {
+    text-align: center;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    font-size: larger;
+}
+.footer{
+    color: black;
+    background-color: var(--primary-color);
+    padding: 1rem 1rem;
+    text-align: center;
+}
